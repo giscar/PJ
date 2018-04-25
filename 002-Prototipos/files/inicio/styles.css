@@ -685,3 +685,29 @@
   width:65px;
   white-space:nowrap;
 }
+#u97_img {
+  position:absolute;
+  left:-2px;
+  top:-2px;
+  width:137px;
+  height:23px;
+}
+#u97 {
+  position:absolute;
+  left:1311px;
+  top:119px;
+  width:133px;
+  height:19px;
+  font-family:'Arial Negrita', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#CCCCCC;
+}
+#u98 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:133px;
+  white-space:nowrap;
+}
